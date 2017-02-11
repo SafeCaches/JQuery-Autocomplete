@@ -1,14 +1,14 @@
 {
-  "name": "devbridge-autocomplete",
+  "name": "safecaches-autocomplete",
   "version": "1.3.0",
   "description": "Autocomplete provides suggestions while you type into the text field.",
-  "homepage": "https://github.com/devbridge/jQuery-Autocomplete",
-  "author": "Tomas Kirda (https://twitter.com/tkirda)",
+  "homepage": "https://github.com/safecaches/jQuery-Autocomplete",
+  "author": "Shawn Williams (https://twitter.com/treyog)",
   "main": "dist/jquery.autocomplete.js",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/devbridge/jQuery-Autocomplete.git"
+    "url": "git://github.com/safecaches/jQuery-Autocomplete.git"
   },
   "dependencies": {
     "jquery": ">=1.7"
