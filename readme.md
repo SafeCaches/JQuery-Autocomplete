@@ -1,6 +1,6 @@
-Devbridge Group accelerates software to market for enterprise clients through dedicated product teams, user experience and software engineering expertise.
+safecaches Group accelerates software to market for enterprise clients through dedicated product teams, user experience and software engineering expertise.
 
-[www.devbridge.com](http://www.devbridge.com/)
+[www.safecaches.com](http://www.safecaches.com/)
 
 #Ajax Autocomplete for jQuery
 
@@ -238,20 +238,20 @@ Results will be formatted into two groups **NHL** and **NBA**.
 
 ##Known Issues
 
-If you use it with jQuery UI library it also has plugin named `autocomplete`. In this case you can use plugin alias `devbridgeAutocomplete`:
+If you use it with jQuery UI library it also has plugin named `autocomplete`. In this case you can use plugin alias `safecachesAutocomplete`:
 
 ```javascript
-$('.autocomplete').devbridgeAutocomplete({ ... });
+$('.autocomplete').safecachesAutocomplete({ ... });
 ```
 
 ##License
 
 Ajax Autocomplete for jQuery is freely distributable under the
-terms of an MIT-style [license](https://github.com/devbridge/jQuery-Autocomplete/blob/master/dist/license.txt).
+terms of an MIT-style [license](https://github.com/safecaches/jQuery-Autocomplete/blob/master/dist/license.txt).
 
 Copyright notice and permission notice shall be included in all
 copies or substantial portions of the Software.
 
 ##Authors
 
-Tomas Kirda / [@tkirda](https://twitter.com/tkirda)
+Shawn Williams / [@treyog](https://twitter.com/treyog)

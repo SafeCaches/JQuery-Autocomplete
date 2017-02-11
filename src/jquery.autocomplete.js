@@ -1,9 +1,9 @@
 /**
 *  Ajax Autocomplete for jQuery, version %version%
-*  (c) 2017 Tomas Kirda
+*  (c) 2017 Shawn Williams
 *
 *  Ajax Autocomplete for jQuery is freely distributable under the terms of an MIT-style license.
-*  For details, see the web site: https://github.com/devbridge/jQuery-Autocomplete
+*  For details, see the web site: https://github.com/safecaches/jQuery-Autocomplete
 */
 
 /*jslint  browser: true, white: true, single: true, this: true, multivar: true */
@@ -972,7 +972,7 @@
     };
 
     // Create chainable jQuery plugin:
-    $.fn.autocomplete = $.fn.devbridgeAutocomplete = function (options, args) {
+    $.fn.autocomplete = $.fn.safecachesAutocomplete = function (options, args) {
         var dataKey = 'autocomplete';
         // If function invoked without argument return
         // instance of the first matched element:
